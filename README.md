@@ -6,7 +6,7 @@ cosmetics brand's Facebook Page, each with reach, impressions, and
 engagement metrics — plus a live call to a real external API
 (Open-Meteo weather, free and keyless).
 
-**Live app:** _[paste your Streamlit Community Cloud URL here after deploying — see "Deploy it live" below]_
+**Live app:** https://capstone-facebook-dashboard.streamlit.app
 
 ## Dataset
 
