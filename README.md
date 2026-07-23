@@ -99,7 +99,7 @@ by you. It's quick:
    main file path to `app.py`.
 4. Click **Deploy**. Streamlit Cloud installs `requirements.txt`
    automatically (~1 minute) and gives you a public URL like
-   `https://<your-app-name>.streamlit.app`.
+   `https://capstone-facebook-dashboard.streamlit.app`.
 5. Paste that URL into the **"Live app"** line at the top of this README
    and commit the change, so the grader can click straight through.
 
