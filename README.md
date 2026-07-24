@@ -114,7 +114,6 @@ keyless, so the app works out of the box on Streamlit Cloud.
 - If the weather API is briefly unreachable, the dashboard degrades
   gracefully and still shows all Facebook post data and charts.
 
-
   -------------------------
   ### Steps to run Dockerfile.
 
@@ -126,3 +125,10 @@ keyless, so the app works out of the box on Streamlit Cloud.
   - docker build -t capstone-part3-dashboard .
   - docker run -p 8501:8501 capstone-part3-dashboard
   - http://localhost:8501
+
+### What dockerfile consists:
+
+- Download the Python base image
+- Install all dependencies from requirements.txt
+- Copy the application files
+- Create a Docker image named capstone-part3-dashboard
